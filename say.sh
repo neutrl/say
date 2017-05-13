@@ -1,5 +1,6 @@
 #!/bin/sh
 ## script using macOS's built in say command to convert text to aiff file
+## can input from txt file, or enter text during script execution
 
 #change to Desktop
 cd ~/Desktop && clear
